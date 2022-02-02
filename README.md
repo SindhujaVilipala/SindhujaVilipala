@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m Sindhuja
+- I’m currently pursuing my Masters Program
+- I’m interested in programming
+- My goal is to reach a professioal Programmer
+- My Hobbies are Reading Books,Playing,Singing
+- 📫 You can reach me via msg or call
+-->
